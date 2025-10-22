@@ -1,7 +1,7 @@
 import React from 'react';
 import {View,Text,StatusBar} from 'react-native';
 
-//Exercise 1 & 3
+//Exercises 1 & 3
 const Welcome = ({code,name}) => {
     return (
         <View>
@@ -10,7 +10,7 @@ const Welcome = ({code,name}) => {
     );
 };
 
-//export default Welcome;
+//export default Welcome
 
 //Exercise 2
 class ModuleInfo extends React.Component{
